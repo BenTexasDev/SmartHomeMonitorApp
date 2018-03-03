@@ -1,0 +1,11 @@
+# ignore the bin and doc directories
+bin/
+doc/
+
+# ignore class files and html files
+*.class
+*.html
+/Output.txt
+bin/Forecast.json
+/Forecast.json
+*.json

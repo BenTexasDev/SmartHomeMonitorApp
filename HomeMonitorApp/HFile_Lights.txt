@@ -1,0 +1,11 @@
+1. Select the Light from the list of lights
+2. Color wheel will change color for the light.
+	-click w in the center for white color
+3. On/Off buttons will turn light on or off.
+4. Brightness slider moves up and down to change brightness.
+
+
+	To Add a Light
+1.click add device
+2.Enter the info for that device in the pop up dialog
+3.Enter OK to save light or cancel.

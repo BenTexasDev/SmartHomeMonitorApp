@@ -1,0 +1,6 @@
+To connect to the raspberry pi
+- You must have the raspberry pi on
+- The raspberry pi needs to be running the python server
+	>> python2 tcpserverWithBulb.py
+- The bulb must be plugged in and must be on
+- You must be connected to the same wifi as the raspberry pi

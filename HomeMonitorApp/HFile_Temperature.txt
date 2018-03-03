@@ -1,0 +1,7 @@
+The heating/cooling panel shows the high, low, and average 
+humidity for the next five days. A recommended setting is
+show on the right that will provide a good cost/comfort
+ratio.
+
+-Each time you launch the application it will retrieve
+ a new 5 day forecast. 
